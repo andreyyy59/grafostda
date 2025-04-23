@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GrafoSimplificado {
+public class GrafoBDSDFS {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
