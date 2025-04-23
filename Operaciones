@@ -1,4 +1,4 @@
-import java.util.*;  // Importamos las clases necesarias para las estructuras de datos (Map, List, etc.)
+import java.util.*;  
 
 public class GrafoDemo {
     // Punto de entrada principal para ejecutar el programa
